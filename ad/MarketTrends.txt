@@ -1,0 +1,71 @@
+MarketTrendsID,TransactionID,EconomicIndex,IndustryData,OtherMarketInfo,PredictedDemand
+1,1,95.8,High demand for electronics,Competitor prices are rising,150000
+2,2,92.5,Stable growth in the automotive sector,New regulations affecting supply chains,120000
+3,3,89.3,Increased consumer spending on home goods,Supply chain disruptions expected,100000
+4,4,94.7,Technology sector showing positive signs,Global economic uncertainty,135000
+5,5,91.2,Expansion in the renewable energy industry,Trade tensions impacting raw material costs,110000
+6,6,87.6,Healthcare industry facing challenges,Fluctuations in currency exchange rates,95000
+7,7,93.4,Growth in e-commerce driving logistics demand,Environmental concerns impacting production,130000
+8,8,90.1,Financial services sector under scrutiny,Changing consumer preferences,105000
+9,9,88.9,Increased demand for sustainable products,Global supply chain disruptions,98000
+10,10,96.5,Positive outlook for the hospitality industry,Technological advancements impacting traditional markets,140000
+11,11,95.2,Increased demand for smart devices,Supply chain optimizations,160000
+12,12,92.8,Growth in software development tools,Remote work influencing market trends,125000
+13,13,88.5,Focus on sustainable office furniture,Global logistics challenges,95000
+14,14,94.3,Technology adoption in healthcare,Market uncertainties affecting investments,140000
+15,15,91.7,Rise in demand for eco-friendly electronics,Supply chain disruptions,115000
+16,16,87.2,Challenges in the home furniture market,Fluctuations in raw material costs,98000
+17,17,93.9,Logistics innovations in e-commerce,Environmental regulations impacting production,135000
+18,18,89.6,Regulatory changes in the financial sector,Shifts in consumer spending habits,110000
+19,19,87.8,Growth in sustainable products market,Global supply chain challenges,97000
+20,20,96.2,Innovation in the hospitality industry,Impact of emerging technologies,145000
+21,21,94.5,Smartwatches gaining popularity,Logistics efficiency in electronics,130000
+22,22,91.1,Remote work impact on wireless accessories,Global supply chain challenges,105000
+23,23,87.7,Home office furniture trends,Fluctuations in raw material costs,92000
+24,24,93.4,Technology trends in the automotive sector,Market uncertainties affecting investments,125000
+25,25,90.2,Sustainability focus in electronics,Supply chain disruptions,100000
+26,26,86.8,Challenges in the gaming chair market,Environmental concerns impacting production,87000
+27,27,92.6,E-commerce logistics innovations,Shifts in consumer spending habits,120000
+28,28,88.3,Financial services technology adoption,Global economic uncertainties,95000
+29,29,86.5,Sustainable products market dynamics,Trade tensions impacting raw material costs,85000
+30,30,95.3,Smart home furniture trends,Technological advancements impacting traditional markets,135000
+31,31,94.1,Consumer interest in wearables,Supply chain optimizations,128000
+32,32,90.7,Software development tools trends,Remote work influencing market trends,110000
+33,33,87.4,Sustainable office furniture market,Global logistics challenges,95000
+34,34,93.2,Healthcare technology adoption,Market uncertainties affecting investments,120000
+35,35,90.5,Eco-friendly electronics demand,Supply chain disruptions,105000
+36,36,86.1,Home furniture market challenges,Fluctuations in raw material costs,90000
+37,37,92.8,E-commerce logistics innovations,Environmental regulations impacting production,115000
+38,38,88.5,Financial technology advancements,Shifts in consumer spending habits,100000
+39,39,87.2,Sustainable products market growth,Global supply chain challenges,98000
+40,40,95.7,Hospitality industry innovation,Impact of emerging technologies,140000
+41,41,94.3,Increased demand for smart devices,Supply chain optimizations,130000
+42,42,91.9,Growth in software development tools,Remote work influencing market trends,125000
+43,43,88.6,Focus on sustainable office furniture,Global logistics challenges,95000
+44,44,94.4,Technology adoption in healthcare,Market uncertainties affecting investments,135000
+45,45,91.8,Rise in demand for eco-friendly electronics,Supply chain disruptions,110000
+46,46,87.5,Challenges in the home furniture market,Fluctuations in raw material costs,98000
+47,47,93.2,Logistics innovations in e-commerce,Environmental regulations impacting production,135000
+48,48,89.9,Regulatory changes in the financial sector,Shifts in consumer spending habits,105000
+49,49,87.1,Growth in sustainable products market,Global supply chain challenges,97000
+50,50,96.5,Innovation in the hospitality industry,Impact of emerging technologies,145000
+51,51,94.8,Smartwatches gaining popularity,Logistics efficiency in electronics,130000
+52,52,91.4,Remote work impact on wireless accessories,Global supply chain challenges,105000
+53,53,87.8,Home office furniture trends,Fluctuations in raw material costs,92000
+54,54,93.5,Technology trends in the automotive sector,Market uncertainties affecting investments,125000
+55,55,90.3,Sustainability focus in electronics,Supply chain disruptions,100000
+56,56,86.9,Challenges in the gaming chair market,Environmental concerns impacting production,87000
+57,57,92.7,E-commerce logistics innovations,Shifts in consumer spending habits,120000
+58,58,88.4,Financial services technology adoption,Global economic uncertainties,95000
+59,59,86.6,Sustainable products market dynamics,Trade tensions impacting raw material costs,85000
+60,60,95.4,Smart home furniture trends,Technological advancements impacting traditional markets,135000
+61,61,94.0,Consumer interest in wearables,Supply chain optimizations,128000
+62,62,90.6,Software development tools trends,Remote work influencing market trends,110000
+63,63,87.3,Sustainable office furniture market,Global logistics challenges,95000
+64,64,93.1,Healthcare technology adoption,Market uncertainties affecting investments,120000
+65,65,90.4,Eco-friendly electronics demand,Supply chain disruptions,105000
+66,66,86.0,Home furniture market challenges,Fluctuations in raw material costs,90000
+67,67,92.9,E-commerce logistics innovations,Environmental regulations impacting production,115000
+68,68,88.6,Financial technology advancements,Shifts in consumer spending habits,100000
+69,69,87.3,Sustainable products market growth,Global supply chain challenges,98000
+70,70,95.8,Hospitality industry innovation,Impact of emerging technologies,140000

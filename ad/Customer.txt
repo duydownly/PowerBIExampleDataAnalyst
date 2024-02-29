@@ -1,0 +1,72 @@
+CustomerID,CustomerName,Address,City,CustomerPreferences
+1,Nguyen Van An,123 Le Loi Street,Ho Chi Minh City,Preferred shipping method: Express
+2,Tran Thi Binh,456 Nguyen Hue Street,Hanoi,Preferred payment method: Credit Card
+3,Le Minh Tuan,789 Vo Van Tan Street,Da Nang,Preferred category: Electronics
+4,Pham Thi Mai,101 Hai Ba Trung Street,Ho Chi Minh City,Preferred shipping method: Standard
+5,Dang Van Lam,202 Cau Go Street,Hanoi,Preferred category: Office Supplies
+6,Bui Thi Ngoc,303 Le Duan Street,Da Nang,Preferred payment method: Cash on Delivery
+7,Vu Dinh Quan,404 Vo Thi Sau Street,Ho Chi Minh City,Preferred shipping method: Express
+8,Hoang Thi Ngoc,505 Ton Duc Thang Street,Hanoi,Preferred category: Accessories
+9,Ngo Minh Duc,606 Nguyen Van Linh Street,Da Nang,Preferred payment method: PayPal
+10,Tran Van Hoa,707 Bach Dang Street,Ho Chi Minh City,Preferred category: Home and Furniture
+11,Nguyen Thi Hanh,808 Pham Ngu Lao Street,Da Nang,Preferred shipping method: Standard
+12,Tran Van Hieu,909 Tran Hung Dao Street,Ho Chi Minh City,Preferred category: Home and Furniture
+13,Le Thi Thao,1111 Nguyen Trai Street,Hanoi,Preferred payment method: Credit Card
+14,Pham Van Quang,1212 Le Van Sy Street,Da Nang,Preferred shipping method: Express
+15,Dang Thi Thu,1313 Vo Thi Sau Street,Ho Chi Minh City,Preferred category: Electronics
+16,Bui Van Thang,1414 Cao Thang Street,Hanoi,Preferred payment method: Cash on Delivery
+17,Vu Thi Mai,1515 Phan Dinh Phung Street,Da Nang,Preferred shipping method: Standard
+18,Ho Van Hoang,1616 Nguyen Van Cu Street,Ho Chi Minh City,Preferred category: Accessories
+19,Nguyen Van Hung,1717 Le Loi Street,Hanoi,Preferred payment method: PayPal
+20,Tran Thi Thuy,1818 Vo Van Kiet Street,Da Nang,Preferred category: Home and Furniture
+21,Le Van Huy,1919 Nguyen Hue Street,Ho Chi Minh City,Preferred shipping method: Express
+22,Pham Thi Hong,2020 Tran Phu Street,Hanoi,Preferred payment method: Credit Card
+23,Dang Van Tuan,2121 Le Thanh Ton Street,Da Nang,Preferred category: Electronics
+24,Bui Thi Hanh,2222 Nguyen Cong Tru Street,Ho Chi Minh City,Preferred shipping method: Standard
+25,Vu Van Hien,2323 Hoang Dieu Street,Hanoi,Preferred category: Accessories
+26,Hoang Van Hau,2424 Vo Van Tan Street,Da Nang,Preferred payment method: Cash on Delivery
+27,Nguyen Thi Ha,2525 Hai Ba Trung Street,Ho Chi Minh City,Preferred shipping method: Express
+28,Tran Van Dat,2626 Ly Tu Trong Street,Hanoi,Preferred payment method: PayPal
+29,Le Thi Minh,2727 Pho Duc Chinh Street,Da Nang,Preferred category: Home and Furniture
+30,Pham Van Hung,2828 Dien Bien Phu Street,Ho Chi Minh City,Preferred shipping method: Standard
+31,Nguyen Van Nam,293 Nguyen Dinh Chieu Street,Ho Chi Minh City,Preferred category: Electronics
+32,Tran Thi Thuy,303 Le Lai Street,Hanoi,Preferred payment method: Credit Card
+33,Le Van Phuc,313 Vo Thi Sau Street,Da Nang,Preferred shipping method: Standard
+34,Pham Van Quyen,323 Ba Trieu Street,Ho Chi Minh City,Preferred category: Accessories
+35,Dang Thi Mai,333 Nguyen Van Linh Street,Hanoi,Preferred payment method: Cash on Delivery
+36,Bui Van Cuong,343 Hoang Van Thu Street,Da Nang,Preferred shipping method: Express
+37,Vu Thi Hoa,353 Ton That Tung Street,Ho Chi Minh City,Preferred category: Home and Furniture
+38,Hoang Minh Quan,363 Cach Mang Thang Tam Street,Hanoi,Preferred payment method: PayPal
+39,Nguyen Thi Mai,373 Pham Van Dong Street,Da Nang,Preferred category: Electronics
+40,Tran Van Tuan,383 Le Hong Phong Street,Ho Chi Minh City,Preferred shipping method: Standard
+41,Le Van Phuong,393 Hai Trieu Street,Hanoi,Preferred payment method: Credit Card
+42,Pham Van Hieu,404 Dien Bien Phu Street,Da Nang,Preferred shipping method: Express
+43,Dang Thi Hoang,414 Nguyen Thai Hoc Street,Ho Chi Minh City,Preferred category: Accessories
+44,Bui Van Khanh,424 Tran Nhan Tong Street,Hanoi,Preferred payment method: Cash on Delivery
+45,Vu Van Linh,434 Hoang Dieu Street,Da Nang,Preferred shipping method: Standard
+46,Hoang Thi Kim,444 Vo Van Kiet Street,Ho Chi Minh City,Preferred category: Home and Furniture
+47,Nguyen Van Huy,454 Le Thanh Ton Street,Hanoi,Preferred payment method: PayPal
+48,Tran Van Hanh,464 Ly Tu Trong Street,Da Nang,Preferred category: Electronics
+49,Le Thi Ngoc,474 Pho Duc Chinh Street,Ho Chi Minh City,Preferred shipping method: Express
+50,Pham Van Tien,484 Nguyen Dinh Chieu Street,Hanoi,Preferred payment method: Credit Card
+51,Nguyen Van Cuong,515 Nguyen Binh Khiem Street,Ho Chi Minh City,Preferred category: Home and Furniture
+52,Tran Thi Ngan,525 Le Duan Street,Hanoi,Preferred payment method: PayPal
+53,Le Van Tuan,535 Dien Bien Phu Street,Da Nang,Preferred shipping method: Standard
+54,Pham Van Phuc,545 Hoang Sa Street,Ho Chi Minh City,Preferred category: Electronics
+55,Dang Thi Hoai,555 Vo Thi Sau Street,Hanoi,Preferred payment method: Cash on Delivery
+56,Bui Van Hien,565 Le Thanh Ton Street,Da Nang,Preferred shipping method: Express
+57,Vu Van Thao,575 Vo Van Kiet Street,Ho Chi Minh City,Preferred category: Accessories
+58,Hoang Van Son,585 Le Hong Phong Street,Hanoi,Preferred payment method: Credit Card
+59,Nguyen Van Dung,595 Tran Nhan Tong Street,Da Nang,Preferred category: Home and Furniture
+60,Tran Thi Thao,606 Pham Van Dong Street,Ho Chi Minh City,Preferred shipping method: Standard
+61,Le Van Cuong,616 Ly Tu Trong Street,Hanoi,Preferred payment method: PayPal
+62,Pham Thi Thuy,626 Vo Van Tan Street,Da Nang,Preferred shipping method: Express
+63,Dang Van Long,636 Nguyen Thai Hoc Street,Ho Chi Minh City,Preferred category: Electronics
+64,Bui Thi Ngoc,646 Hoang Dieu Street,Hanoi,Preferred payment method: Cash on Delivery
+65,Vu Van Hoang,656 Vo Thi Sau Street,Da Nang,Preferred shipping method: Standard
+66,Hoang Van Huy,666 Pho Duc Chinh Street,Ho Chi Minh City,Preferred category: Accessories
+67,Nguyen Thi Hien,676 Nguyen Binh Khiem Street,Hanoi,Preferred payment method: Credit Card
+68,Tran Van Phuong,686 Le Duan Street,Da Nang,Preferred category: Home and Furniture
+69,Le Van Phat,696 Tran Hung Dao Street,Ho Chi Minh City,Preferred shipping method: Express
+70,Pham Thi Lan,706 Dien Bien Phu Street,Hanoi,Preferred payment method: PayPal
+

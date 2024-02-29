@@ -1,0 +1,41 @@
+ProductID,ProductName,Category,UnitPrice
+101,Smartphone,Electronics,500.00
+102,Laptop,Electronics,1000.00
+103,Tablet,Electronics,300.00
+104,Headphones,Electronics,50.00
+105,Mouse,Electronics,20.00
+106,Desk,Office Furniture,150.00
+107,Chair,Office Furniture,80.00
+108,Backpack,Accessories,30.00
+109,External Hard Drive,Electronics,80.00
+110,Printer,Electronics,200.00
+111,Smartwatch,Electronics,120.00
+112,Wireless Keyboard,Electronics,40.00
+113,LED Monitor,Electronics,250.00
+114,Gaming Chair,Office Furniture,200.00
+115,USB Flash Drive,Electronics,15.00
+116,Coffee Table,Home Furniture,180.00
+117,Desk Lamp,Home Accessories,25.00
+118,Travel Mug,Accessories,10.00
+119,Bluetooth Speaker,Electronics,70.00
+120,Wireless Mouse,Electronics,25.00
+121,Smart TV,Electronics,800.00
+122,Wireless Earbuds,Electronics,60.00
+123,Office Chair,Office Furniture,120.00
+124,External SSD,Electronics,100.00
+125,Graphic Design Software,Software,150.00
+126,Bookshelf,Home Furniture,120.00
+127,Alarm Clock,Home Accessories,15.00
+128,Power Bank,Accessories,25.00
+129,Bluetooth Headset,Electronics,50.00
+130,Desk Organizer,Office Accessories,15.00
+131,Digital Camera,Electronics,300.00
+132,Home Security System,Home Electronics,200.00
+133,Plant Pot,Home Accessories,10.00
+134,Fitness Tracker,Electronics,40.00
+135,Portable Projector,Electronics,120.00
+136,Wall Clock,Home Accessories,20.00
+137,Travel Backpack,Accessories,35.00
+138,Wireless Charging Pad,Electronics,25.00
+139,External Blu-ray Drive,Electronics,80.00
+140,Smart Thermostat,Home Electronics,90.00
